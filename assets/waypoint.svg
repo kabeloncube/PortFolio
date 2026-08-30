@@ -1,0 +1,8 @@
+<svg viewBox="0 0 400 280" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Waypoint project preview">
+  <rect width="400" height="280" fill="#12141C"/>
+  <path d="M30,220 Q150,60 260,150 T380,70" fill="none" stroke="#82AAFF" stroke-width="4" stroke-dasharray="10,8"/>
+  <circle cx="30" cy="220" r="9" fill="#F2C078"/>
+  <circle cx="260" cy="150" r="9" fill="#F2C078"/>
+  <circle cx="380" cy="70" r="9" fill="#F28FAD"/>
+  <rect x="30" y="240" width="160" height="12" rx="6" fill="#232635"/>
+</svg>
